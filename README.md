@@ -1,2 +1,3 @@
 # Hello-world
-just another repository
+Hello ,
+I try to follow the tutorial of "Stat with GitHub".
